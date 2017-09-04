@@ -21,6 +21,8 @@ gem 'uglifier', '>= 1.3.0'
 
 #use paperclip for handling attachments.
 gem "paperclip"
+#sorcery handles authentication
+gem 'sorcery'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
